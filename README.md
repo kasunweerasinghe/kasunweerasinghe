@@ -29,7 +29,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I am Studying Become a Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.
+I am Studying Become a Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.
 
 - :telescope: I’m Currently 1st year Student at IJSE-Institute of Software Engineering.
 
