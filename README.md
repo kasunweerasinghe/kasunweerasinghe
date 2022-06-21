@@ -32,8 +32,10 @@
 I am Studying Become a Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.
 
 - :telescope: I’m Currently 1st year Student at IJSE-Institute of Software Engineering.
-
-- :seedling: Exploring Technical and More Other Things.
+ 
+- :seedling: Exploring...
+ 
+- 🤯 Hobbies :listerning songs,watching (Anime,Film,Series),Read Manga
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kasun-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kasun-rachintha-weerasinghe-7353171a5/)
 
