@@ -32,9 +32,7 @@
 I am Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.
 
 - :telescope: I’m Currently 1st year Student at IJSE-Institute of Software Engineering.
- 
-- :seedling: Exploring...
- 
+
 - 🤯 Hobbies :listerning songs,watching Anime,Read Manga.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kasun-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kasun-rachintha-weerasinghe-7353171a5/)
@@ -49,7 +47,6 @@ I am Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="Intellij" **alt="Intellij" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg" title="Atom" **alt="Atom" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" **alt="Slack" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vsCode" **alt="vsCode" width="40" height="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHHub" **alt="GitHHub" width="40" height="40"/>
