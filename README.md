@@ -18,12 +18,13 @@
 
 <div id="badges" align="center">
 <h1>
+ <div align="Center">
   hey there
+  </div>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   
 </h1>
   </div>
-  
   <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
 </div>
@@ -35,7 +36,9 @@ I am Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - 🤯 Hobbies :listerning songs,watching Anime,Read Manga.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kasun-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kasun-rachintha-weerasinghe-7353171a5/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kasun-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kasun-rachintha-weerasinghe-7353171a5/)
+
+- 🧑🏻‍💻 You can Find All My project Here.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
