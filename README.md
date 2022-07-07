@@ -51,9 +51,11 @@ I am Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="Intellij" **alt="Intellij" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" **alt="Slack" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vsCode" **alt="vsCode" width="40" height="40"/>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHHub" **alt="GitHHub" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vsCode" **alt="vsCode" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHHub" **alt="GitHHub" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" **alt="nodejs" width="40" height="40"/>
 </div>
+
 
 
 
