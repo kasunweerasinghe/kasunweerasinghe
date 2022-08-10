@@ -102,4 +102,4 @@ I am Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasunweerasinghe&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img alt="Coding" width="600" src="https://github.com/AshanSandeep06/Images-repo/blob/master/src/assets/github-contribution-grid-snake.svg">
+
