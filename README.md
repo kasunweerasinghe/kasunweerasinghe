@@ -1,3 +1,16 @@
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hello+%F0%9F%91%8B%2C+I'm+Kasun+Weerasinghe;IJSE-+%F0%9F%92%BB%2C+Institute+of+Software+Engineering;)](https://git.io/typing-svg)
+ 
+
+<h3 align="center"><b><i>Front-End Developer from Sri Lanka</i></b></h3>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20HTML%20|%20CSS%20|%20JS%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p><br>
+
+
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -13,6 +26,7 @@
 
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=your-github-Kasunweerasinghe&style=flat-square&color=blue" alt=""/>
+
 </div>
 
 
@@ -26,11 +40,15 @@
 </h1>
   </div>
   <div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
+  <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="500" height="400"/>
 </div>
+
+
 
 ### :man_technologist: About Me :
 I am Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.
+
+- ❤️ I Studied at Sebastian's College 🔥
 
 - :telescope: I’m Currently 1st year Student at IJSE-Institute of Software Engineering.
 
@@ -64,6 +82,17 @@ I am Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 </div>
 
+<div id="badges" align="center">
+<h1>
+ <div align="Center">
+
+  </div>
+  <div align="center">
+  <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="280" height="200"/>
+</div>
+
+  
+  
 
 
 ### :fire: My Stats :
@@ -72,3 +101,5 @@ I am Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasunweerasinghe&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<img alt="Coding" width="600" src="https://github.com/AshanSandeep06/Images-repo/blob/master/src/assets/github-contribution-grid-snake.svg">
