@@ -58,7 +58,7 @@ I am Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - 🧑🏻‍💻 If you need a help Please don't hesitate to contact me.
 
-### :hammer_and_wrench: Languages:
+### :hammer_and_wrench: Languages & Tools:
 <div>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -66,19 +66,20 @@ I am Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
-
-</div>
-
-### :hammer_and_wrench: Tools:
-<div>
-
- <img src="https://www.svgrepo.com/show/353906/intellij-idea.svg" title="intellij" alt="intellij" width="40" height="40"/>&nbsp;
+<img src="https://www.svgrepo.com/show/353906/intellij-idea.svg" title="intellij" alt="intellij" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="slack" alt="slack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
    <img src="https://www.svgrepo.com/show/353874/hibernate.svg" title="hibernate" alt="hibernate" width="40" height="40"/>&nbsp;
+
+</div>
+
+### :hammer_and_wrench: Connect With Me!:
+<div>
+
+ 
 
 </div>
 
