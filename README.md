@@ -8,9 +8,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20HTML%20|%20CSS%20|%20JS%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p><br>
 
-
-
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -76,11 +73,20 @@ I am Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 </div>
 
-### :hammer_and_wrench: Connect With Me!:
+### :call_me_hand: Connect With Me!
+
 <div>
+<a href="https://www.linkedin.com/in/kasun-weerasinghe-7353171a5/"target="blank">
+  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" height="40" width="40"/>
+  </a>
 
- 
+<a href="https://twitter.com/Lucy__K98" target="blank">
+  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" height="40" width="40"/>
+</a>
 
+<a href="https://www.facebook.com/Lucifer.kasun" target="blank">
+  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" height="40" width="40"/>
+</a>
 </div>
 
 <div id="badges" align="center">
