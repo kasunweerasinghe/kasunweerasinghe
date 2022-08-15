@@ -56,7 +56,7 @@ I am Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kasun-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kasun-rachintha-weerasinghe-7353171a5/)
 
-- 🧑🏻‍💻 You can Find All My project Here.
+- 🧑🏻‍💻 If you need a help Please don't hesitate to contact me.
 
 ### :hammer_and_wrench: Languages:
 <div>
