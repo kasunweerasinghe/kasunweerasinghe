@@ -69,7 +69,8 @@ I am Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="slack" alt="slack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-   <img src="https://www.svgrepo.com/show/353874/hibernate.svg" title="hibernate" alt="hibernate" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/353874/hibernate.svg" title="hibernate" alt="hibernate" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
 
 </div>
 
