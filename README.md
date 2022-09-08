@@ -30,19 +30,18 @@
 
 <br>
 <br>
-<br>
-<br>
 
-
-- 📚 I Studied at **Sebastian's College Katuneriya**
-
-- 😎 Hobbies **listening songs ,watching Anime & Read Manga**
+- 💻 I'm Currentiy **1st year Student at IJSE-Institute of Software Engineering.**
 
 - 👨‍💻 All of my projects are available at [https://kasunweerasinghe.github.io/My-Portfolio/](https://kasunweerasinghe.github.io/My-Portfolio/)
 
 - 💬 Ask me about **HTML, CSS and Java**
 
+- 😎 Hobbies **listening songs ,watching Anime & Read Manga**
+
 - 📫 How to reach me **kaunrachintha201@gmail.com**
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
