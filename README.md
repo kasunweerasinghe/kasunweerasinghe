@@ -71,6 +71,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain-wordmark.svg" title="Filezilla" alt="Filezilla" width="40" height="40"/>&nbsp;
    <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/hibernate.svg" title="Hibernate" alt="Hibernate" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
 
 
 
