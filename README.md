@@ -41,6 +41,8 @@
 
 - 📫 How to reach me **kaunrachintha201@gmail.com**
 
+- 📰 Read my Article **https://medium.com/@kasun-r-weerasinghe**
+
 <br>
 
 <h3 align="left">Connect with me:</h3>
