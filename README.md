@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hello+%F0%9F%91%8B%2C+I'm+Kasun+Weerasinghe;IJSE-+%F0%9F%92%BB%2C+Institute+of+Software+Engineering;)](https://git.io/typing-svg)
  
 
-<h3 align="center"><b><i>Front-End Developer from Sri Lanka</i></b></h3>
+<h3 align="center"><b><i>Full stack Developer from Sri Lanka</i></b></h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20HTML%20|%20CSS%20|%20JS%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
