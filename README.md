@@ -33,7 +33,7 @@
 
 - 💻 I'm Currentiy **1st year Student at IJSE-Institute of Software Engineering.**
 
-- 👨‍💻 All of my projects are available at [https://kasunweerasinghe.github.io/My-Portfolio/](https://kasunweerasinghe.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [http://kasun-weerasinghe.epizy.com/](http://kasun-weerasinghe.epizy.com/)
 
 - 💬 Ask me about **HTML, CSS and Java**
 
