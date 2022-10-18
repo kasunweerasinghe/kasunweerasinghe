@@ -33,6 +33,8 @@
 
 - 💻 I'm Currentiy **1st year Student at IJSE-Institute of Software Engineering.**
 
+- 🌱 I’m currently learning **Java, HTML5, CSS3 and Java Script**
+
 - 👨‍💻 All of my projects are available at [http://kasun-weerasinghe.epizy.com/](http://kasun-weerasinghe.epizy.com/)
 
 - 💬 Ask me about **HTML, CSS and Java**
