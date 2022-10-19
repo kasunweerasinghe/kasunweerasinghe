@@ -1,3 +1,4 @@
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hello+%F0%9F%91%8B%2C+I'm+Kasun+Weerasinghe;IJSE-+%F0%9F%92%BB%2C+Institute+of+Software+Engineering;)](https://git.io/typing-svg)
  
 
@@ -102,11 +103,11 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasunweerasinghe&layout=compact)](https://github.com/kasunweerasinghe/github-readme-kasunweerasinghe)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasunweerasinghe&langs_count=8)](https://github.com/kasunweerasinghe/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasunweerasinghe&theme=dark&show_icons=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasunweerasinghe&show_icons=true&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kasunweerasinghe&theme=tokyonight)](https://git.io/streak-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kasunweerasinghe&theme=graywhite)](https://git.io/streak-stats)
 
 
