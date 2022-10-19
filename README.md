@@ -1,6 +1,3 @@
-[![@kasun_weerasinghe's Holopin board](https://holopin.me/kasun_weerasinghe)](https://holopin.io/@kasun_weerasinghe)
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hello+%F0%9F%91%8B%2C+I'm+Kasun+Weerasinghe;IJSE-+%F0%9F%92%BB%2C+Institute+of+Software+Engineering;)](https://git.io/typing-svg)
  
 
@@ -37,16 +34,13 @@
 
 - 🌱 I’m currently learning **Java, HTML5, CSS3 and Java Script**
 
-- 👨‍💻 All of my projects are available at [http://kasun-weerasinghe.epizy.com/](http://kasun-weerasinghe.epizy.com/)
-
-- 💬 Ask me about **HTML, CSS and Java**
-
-- 😎 Hobbies **listening songs ,watching Anime & Read Manga**
+- 👨‍💻 check my Portfolio [http://kasun-weerasinghe.epizy.com/](http://kasun-weerasinghe.epizy.com/)
 
 - 📫 How to reach me **kaunrachintha201@gmail.com**
 
 - 📰 You can Read the Article I wrote [https://kasun-r-weerasinghe.medium.com/](https://kasun-r-weerasinghe.medium.com/)
 
+- 😎 Hobbies **listening songs ,watching Anime & Read Manga**
 
 <br>
 
