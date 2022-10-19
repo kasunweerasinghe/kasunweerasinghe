@@ -15,20 +15,37 @@
   <a href="https://www.linkedin.com/in/kasun-rachintha-weerasinghe-7353171a5/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/Lucy__K98">
+   <a href="https://kasun-r-weerasinghe.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-blue?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>  
+  </a>
+  <a href="https://twitter.com/kasunweersinghe">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>  
-  </a> 
+  </a>
+   <a href="http://kasun-weerasinghe.epizy.com/">
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio Badge"/>  
+  </a>
 </div>
+
+
 
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=your-github-Kasunweerasinghe&style=flat-square&color=blue" alt=""/>
-
 </div>
-<h3 align="left">Support:</h3>
-<p ><a href="https://www.buymeacoffee.com/kasunrachiU"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/kasunrachiU" /></a></p><br><br>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-blue" />
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-blue" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-blue" />
+</p>
+
 
 <br>
 <br>
+<br>
+
+<h1>About Me!</h1>
 
 - 💻 I'm Currentiy **1st year Student at IJSE-Institute of Software Engineering.**
 
