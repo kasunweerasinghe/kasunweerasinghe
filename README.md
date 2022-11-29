@@ -1,3 +1,8 @@
+![127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8](https://user-images.githubusercontent.com/84431272/204506362-086c521a-4bfa-4aed-8cdb-77a8ed29b889.png)
+
+
+
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hello+%F0%9F%91%8B%2C+I'm+Kasun+Weerasinghe;IJSE-+%F0%9F%92%BB%2C+Institute+of+Software+Engineering;)](https://git.io/typing-svg)
  
