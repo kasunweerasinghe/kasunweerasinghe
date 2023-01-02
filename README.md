@@ -55,7 +55,7 @@
 
 - 💻 I'm Currentiy **2nd year Student at IJSE-Institute of Software Engineering.**
 
-- 🌱 I’m currently learning **JavaScript, JavaEE**
+- 🌱 I’m currently learning **Spring, JavaEE**
 
 - 👨‍💻 check my Portfolio [http://kasun-weerasinghe.epizy.com/](http://kasun-weerasinghe.epizy.com/)
 
