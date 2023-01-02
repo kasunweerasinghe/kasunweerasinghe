@@ -57,7 +57,7 @@
 
 - 🌱 I’m currently learning **Spring, JavaEE**
 
-- 👨‍💻 check my Portfolio [http://kasun-weerasinghe.42web.io/](http://kasun-weerasinghe.42web.io/)
+- 👨‍💻 check my Portfolio [https://kasunweerasinghe.000webhostapp.com/](https://kasunweerasinghe.000webhostapp.com/)
 
 - 📫 How to reach me **kaunrachintha201@gmail.com**
 
