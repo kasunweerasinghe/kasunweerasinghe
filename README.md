@@ -27,7 +27,7 @@
   <a href="https://twitter.com/kasunweersinghe">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>  
   </a>
-   <a href="http://kasun-weerasinghe.epizy.com/">
+   <a href="https://kasunweerasinghe.000webhostapp.com/">
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio Badge"/>  
   </a>
 </div>
