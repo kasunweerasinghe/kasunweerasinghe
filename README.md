@@ -53,7 +53,7 @@
 
 <h1>About Me!</h1>
 
-- 💻 I'm Currentiy **2nd year Student at IJSE-Institute of Software Engineering.**
+- 💻 I'm Currently **2nd year Student at IJSE-Institute of Software Engineering.**
 
 - 🌱 I’m currently learning **Spring, JavaEE**
 
