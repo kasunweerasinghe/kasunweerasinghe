@@ -18,7 +18,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/kasun-rachintha-weerasinghe-7353171a5/">
+  <a href="https://www.linkedin.com/in/Kasun-R-Weerasinghe/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <a href="https://kasun-r-weerasinghe.medium.com/">
