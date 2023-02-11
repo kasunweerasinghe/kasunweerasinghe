@@ -59,7 +59,7 @@
 
 - 👨‍💻 check my Portfolio [https://kasunweerasinghe.000webhostapp.com/](https://kasunweerasinghe.000webhostapp.com/)
 
-- 📫 How to reach me **kaunrachintha201@gmail.com**
+- 📫 How to reach me **kaunrachintha2018@gmail.com**
 
 - 📰 You can Read the Article I wrote [https://kasun-r-weerasinghe.medium.com/](https://kasun-r-weerasinghe.medium.com/)
 
