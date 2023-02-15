@@ -111,12 +111,12 @@
 </div>
 
 ---
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kasun_weerasinghe)](https://github.com/kasunweerasinghe/github-readme-stats)
+[![kasun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kasun_weerasinghe)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasunweerasinghe&layout=compact)](https://github.com/kasunweerasinghe/github-readme-kasunweerasinghe)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasunweerasinghe&theme=dark&show_icons=true)
+![Kasun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasunweerasinghe&theme=dark&show_icons=true)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kasunweerasinghe&theme=tokyonight)](https://git.io/streak-stats)
 
