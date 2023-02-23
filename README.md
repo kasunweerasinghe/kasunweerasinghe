@@ -27,9 +27,6 @@
   <a href="https://twitter.com/kasunweersinghe">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>  
   </a>
-  <a href="https://stackoverflow.com/users/16436579/kasun-weerasinghe">
-    <img src="https://img.shields.io/badge/stackoverflow-blue?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Twitter Badge"/>  
-  </a>
    <a href="https://kasunweerasinghe.000webhostapp.com/">
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio Badge"/>  
   </a>
