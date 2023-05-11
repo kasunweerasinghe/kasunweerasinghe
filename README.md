@@ -55,7 +55,7 @@
 
 - 💻 I'm Currently **2nd year Student at IJSE-Institute of Software Engineering.**
 
-- 🌱 I’m currently learning **MERN, Python**
+- 🌱 I’m currently learning **MERN, Python, Mobile Dev**
 
 - 👨‍💻 check my Portfolio [https://kasunweerasinghe.000webhostapp.com/](https://kasunweerasinghe.000webhostapp.com/)
 
