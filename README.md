@@ -63,7 +63,7 @@
 
 - 📰 You can Read the Article I wrote [https://kasun-r-weerasinghe.medium.com/](https://kasun-r-weerasinghe.medium.com/)
 
-- 😎 Hobbies **listening songs ,watching Tv Series, Movies, Anime & Read Manga**
+- 😎 interesting **listening songs ,watching Tv Series, Movies, Anime & Read Manga**
 
 <br>
 
