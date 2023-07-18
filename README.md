@@ -1,13 +1,10 @@
 ![127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8](https://user-images.githubusercontent.com/84431272/204506362-086c521a-4bfa-4aed-8cdb-77a8ed29b889.png)
 
 
-
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hello+%F0%9F%91%8B%2C+I'm+Kasun+Weerasinghe;IJSE-+%F0%9F%92%BB%2C+Institute+of+Software+Engineering;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hello+%F0%9F%91%8B%2C+I'm+Kasun+Weerasinghe;Front-End+%F0%9F%92%BB%2C+Software+Engineer;)](https://git.io/typing-svg)
  
 
-<h3 align="center"><b><i>Full stack Developer from Sri Lanka</i></b></h3>
+<h3 align="center"><b><i>Front-End Developer from Sri Lanka</i></b></h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20HTML%20|%20CSS%20|%20JS%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
@@ -55,15 +52,15 @@
 
 - 💻 I'm Currently **2nd year Student at IJSE-Institute of Software Engineering.**
 
-- 🌱 I’m currently learning **MERN Stack, Python, React Native**
+- 🌱 I’m currently learning **Angular, RxJS, TypeScript**
 
 - 👨‍💻 check my Portfolio [https://kasunweerasinghe.000webhostapp.com/](https://kasunweerasinghe.000webhostapp.com/)
 
-- 📫 How to reach me **kaunrachintha2018@gmail.com**
+- 📫 How to reach me **kaunweerasinghe59@gmail.com**
 
 - 📰 You can Read the Article I wrote [https://kasun-r-weerasinghe.medium.com/](https://kasun-r-weerasinghe.medium.com/)
 
-- 😎 interesting **listening songs ,watching Tv Series, Movies, Anime & Read Manga**
+- 😎 interesting **listening to songs, watching Tv Series, Movies & Read Manga**
 
 <br>
 
